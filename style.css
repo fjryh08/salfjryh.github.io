@@ -1,0 +1,14 @@
+.jumbotron{
+    padding-top: 7rem;
+    background-color: #c88dff;
+}
+
+#projects{
+    background-color: #c88dff;
+}
+#footer{
+    background-image: secondary(--bs-gradient);;
+}
+section{
+    padding-top: 4rem;
+}
